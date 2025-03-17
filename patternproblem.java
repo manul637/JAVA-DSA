@@ -180,20 +180,23 @@ public class patternproblem {
 
         // ---------------------------------------------------------  12   BINARY RIGHT TRIANGLE ----------------------------------
 
-         int n = 5;
+        //  int n = 5;
 
-         for(int i = 1; i<=n ; i++){
-            for(int j = 1 ; j <=i ; j++){
-                int sum = i+j;
+        //  for(int i = 1; i<=n ; i++){
+        //     for(int j = 1 ; j <=i ; j++){
+        //         int sum = i+j;
 
-                if(sum%2==0){
-                    System.out.print("1");
-                }else{
-                    System.out.print("0");
-                }
-            }
-            System.out.println();
-         }
+        //         if(sum%2==0){
+        //             System.out.print("1");              //new concept
+        //         }else{
+        //             System.out.print("0");
+        //         }
+        //     }
+        //     System.out.println();
+        //  }
+
+
+        
 
 
             
